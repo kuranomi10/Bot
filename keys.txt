@@ -1,3 +1,0 @@
-RUI-U0A385 |life | 365days
-RUI-U0A168 | bro | 365days
-userid |key | time
